@@ -1,0 +1,2 @@
+# sign_board_power_saving
+This project is designed for power saving achieved by scheduling the Device on-off timings properly, which is done by microcontroller(ARM7-LPC2148). First Time database is designed by making use of keypad and RTC and after that device on-off timings will be scheduled and saved in EEPROM using I2C protocol. Then continuously microcontroller will be reading time from RTC and displayed on the LCD. 
